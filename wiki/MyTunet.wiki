@@ -8,9 +8,9 @@
 = !MyTunet 目前有哪些版本？ =
 
  * !MyTunet for Windows
- ** 简洁版 (mytunet-lite.zip)
- ** 完整版 (mytunet-full.zip)
- ** 供 Windows Vista 使用的临时版本 (mytunet_for_vista.zip)
+  * 简洁版 (mytunet-lite.zip)
+  * 完整版 (mytunet-full.zip)
+  * 供 Windows Vista 使用的临时版本 (mytunet_for_vista.zip)
  * !MyTunet for Linux (命令行模式)
  * !MyTunet for Linux (基于 QT 的图形界面)
 
