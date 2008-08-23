@@ -1,6 +1,6 @@
 #summary !MyTunet 常见问题。
 
-= 使用 MyTunet 安全吗？ =
+= 使用 !MyTunet 安全吗？ =
 
 所有网络通信，!MyTunet 与官方 !TUNet 完全一致。在网络通信的数据流上， !MyTunet 和官方 !TUNet 的安全性等价。
 
