@@ -1,4 +1,4 @@
-#summary !MyTunet 常见问题。
+#summary MyTunet 常见问题。
 
 = 使用 !MyTunet 安全吗？ =
 
