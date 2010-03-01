@@ -16,6 +16,10 @@
 *env LD_LIBRARY_PATH=. ./qtunet*
 尝试运行qtunet。
 
+* 运行qtunet, 提示./qtunet: symbol lookup error: ./qtunet: undefined symbol: qFlagLocation(char const*)
+
+请升级系统的Qt4版本，或者下载提供的qt4-libs。
+
 * 为什么现在无法选择网卡以及是否进行802.1x认证了？
 
 现在的校园网已经取消了802.1x认证，因此无需选择网卡，QTunet即可工作。
