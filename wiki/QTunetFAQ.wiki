@@ -1,0 +1,17 @@
+#summary 关于QTunet (MyTunet 基于Qt图形界面库的版本) 常见问题解答
+#labels Featured,Phase-Deploy
+
+= QTunet 的版本 =
+
+目前处于积极开发中的是基于Qt4的版本，Qt3版本的QTunet已经不再开发。
+
+
+= FAQ =
+
+* 运行qtunet, 遇到/libexec/ld-elf.so.1: Shared object "libQtGui.so.4" not found, required by "qtunet"这样的问题怎么办？
+
+请下载与系统所对应的qt4-libs压缩包，解压缩到qtunet同一个目录，随后使用startqtunet脚本启动。
+
+也可以在qtunet目录输入
+*env LD_LIBRARY_PATH=. ./qtunet*
+尝试运行qtunet。
