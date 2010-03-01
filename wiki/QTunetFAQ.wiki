@@ -16,7 +16,7 @@
 *env LD_LIBRARY_PATH=. ./qtunet*
 尝试运行qtunet。
 
-* 运行qtunet, 提示./qtunet: symbol lookup error: ./qtunet: undefined symbol: qFlagLocation(char const*)
+* 运行qtunet, 提示./qtunet: symbol lookup error: ./qtunet: undefined symbol: _Z13qFlagLocationPKc
 
 请升级系统的Qt4版本，或者下载提供的qt4-libs。
 
@@ -28,7 +28,6 @@
 
 请下载qtunet的legacy版本，以及qt4-libs的老版本(4.2.1)，再尝试运行。
 或者尝试升级系统的libc版本，使其>=2.9也可。(yum系为glibc包，apt系为libc6包)
-
 
 * 为什么现在无法选择网卡以及是否进行802.1x认证了？
 
