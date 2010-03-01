@@ -16,7 +16,7 @@
 *env LD_LIBRARY_PATH=. ./qtunet*
 尝试运行qtunet。
 
-* 运行qtunet, 提示./qtunet: symbol lookup error: ./qtunet: undefined symbol: \_Z13qFlagLocationPKc
+* 运行qtunet, 提示./qtunet: symbol lookup error: ./qtunet: undefined symbol: __Z13qFlagLocationPKc
 
 请升级系统的Qt4版本，或者下载提供的qt4-libs。
 
