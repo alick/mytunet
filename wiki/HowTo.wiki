@@ -1,5 +1,5 @@
+#summary 如何安装使用QTunet
 #labels Featured,Phase-Deploy
-如何安装使用QTunet
 
 = Introduction =
 
